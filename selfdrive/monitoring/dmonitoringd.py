@@ -80,5 +80,5 @@ def dmonitoringd_thread(sm=None, pm=None):
 def main(sm=None, pm=None):
   dmonitoringd_thread(sm, pm)
 
-if __name__ == '__main__':
-  main()
+# if __name__ == '__main__':
+  # main()
